@@ -1,0 +1,4 @@
+Page Name,Visual ID,Visual Type,Field Category,Field Name
+Page 1,fd0825366406bcdc80ba,tableEx,Values,TestData.Product
+Page 1,fd0825366406bcdc80ba,tableEx,Values,Sum(TestData.Unit)
+Page 2,5b89ebc866e2a98c1504,clusteredColumnChart,Y,Sum(TestData.Unit)
